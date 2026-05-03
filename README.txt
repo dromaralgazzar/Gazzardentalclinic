@@ -1,1 +1,1 @@
-GAZZAR Dental Clinic premium flat mobile version. Upload all files together to GitHub root, then redeploy on Vercel.
+GAZZAR final premium flat version with WhatsApp booking form. Upload all files to GitHub root and redeploy on Vercel.
